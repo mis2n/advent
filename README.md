@@ -29,7 +29,7 @@ Software
   <li>hidemouse.desktop - disables mouse pointer for touchscreen operation</li>
   <li>setup.sh - bash script to install necessary python libraries and adjust raspi-config settings</li>
   <li>treat.py - !!! For future upgrades !!! utilized GPIO pins to control a stepper motor (will be used to add candy dispenser to kiosk)</li>
-  <\ol>
+  </ol>
   <br>
     
 Additional Materials
