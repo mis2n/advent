@@ -31,9 +31,9 @@ Additional Materials
   <li>Scrap wood</li>
   <li>vinyl</li>
   <li>PLA filament</li>
-   </ol>
   <li>soldering equipment/tools</li>
   <li>cotton</li>
+  </ol>
 <br>
 <a><img src="./Documentation/Advent.gif" align="left" height="445" width="250" ></a>
 <a><img src="./Documentation/1.png" align="left" height="333" width="250" ></a>
